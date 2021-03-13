@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+学歴
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 長野県立野沢北高等学校 普通科, 2012 - 2015
+* 首都大学東京(現東京都立大学) システムデザイン学部システムデザイン学科情報通信システムコース, GitHub University, 2015 - 2019
+* 東京都立大学大学院 システムデザイン研究科情報科学域, 2019-2021
 
-Work experience
+職歴
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* None
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+スキル
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* TOEIC 620点 (2018年3月時点)
+* AtCoder 緑 (ID: kNakajima)
