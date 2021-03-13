@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "自己紹介ページ"
 permalink: /
 author_profile: true
 redirect_from:
